@@ -1,5 +1,6 @@
 # SOL_Music_Store_Analysis
-Data Analysis for Digital Music Store using SQL
+Data Analysis for Digital Music Store using SQL. 
+This project is focused on analyzing the database of a Digital Music Store
 # Database and Tool
 Postgre SQL
 PgAdmin4
